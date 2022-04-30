@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="example1_07/src/main/res/layout/activity_main.xml" value="0.28072916666666664" />
+        <entry key="example1_07/src/main/res/layout/fragment_one.xml" value="0.21875" />
+        <entry key="example2_07/src/main/res/layout/item_main.xml" value="0.2490740740740741" />
+        <entry key="example2_07/src/main/res/layout/recycler_view.xml" value="0.26510416666666664" />
+        <entry key="example3_07/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="example3_07/src/main/res/layout/item_pager.xml" value="0.26510416666666664" />
+        <entry key="example4_07/src/main/res/layout/activity_main.xml" value="0.26510416666666664" />
+        <entry key="example5_07/src/main/res/layout/activity_main.xml" value="0.2490740740740741" />
+        <entry key="example5_07/src/main/res/layout/activity_sub.xml" value="0.28072916666666664" />
+        <entry key="example5_07/src/main/res/layout/fragment_main.xml" value="0.2712962962962963" />
+        <entry key="example5_07/src/main/res/layout/fragment_one.xml" value="0.2490740740740741" />
+        <entry key="example5_07/src/main/res/layout/fragment_sub.xml" value="0.2490740740740741" />
+        <entry key="example5_07/src/main/res/layout/item_sub.xml" value="0.2490740740740741" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

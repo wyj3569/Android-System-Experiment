@@ -1,0 +1,25 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "AndroidLab5"
+include ':app'
+include ':example1'
+include ':example2'
+include ':example3'
+include ':example4'
+include ':example5'
+include ':example6'
+include ':example7'
+include ':example4_2'
+include ':example1_2'
